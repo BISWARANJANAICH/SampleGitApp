@@ -1,0 +1,2 @@
+usename = 123uat
+password= passuatword
