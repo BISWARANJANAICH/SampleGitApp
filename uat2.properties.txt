@@ -1,0 +1,2 @@
+usename = uat2
+password= uat2password
